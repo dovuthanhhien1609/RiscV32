@@ -1,0 +1,385 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/project/riscv32i_pipeline_BAN_GOC/riscv32i_pipeline/hdl
+T_opt
+!s110 1641220428
+VeZ08>T:O_BbzLGYcnfQLH2
+04 21 4 work tb_riscv_pipeline_top fast 0
+=3-a44cc8015e4d-61d3094b-25d-3b34
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
+R0
+valu_control
+Z2 DXx6 sv_std 3 std 0 22 d=_JfHTnXCN[H5FjiaJJc0
+Z3 !s110 1641285315
+!i10b 1
+!s100 mXPMGMJzJmFhmEPDjl@0;2
+I?Q[lKA70dXYQ@OnKXzQ560
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_control_sv_unit
+S1
+Z5 dC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK
+w1641201555
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv
+L0 1
+Z6 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z7 !s108 1641285315.000000
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vcontrol
+R2
+R3
+!i10b 1
+!s100 <?:RJ43l152J:`cCPV3Yh3
+IN7g3e^^FF4D=AFzbcNLTR2
+R4
+!s105 control_sv_unit
+S1
+R5
+w1641203418
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv|
+!i113 0
+R8
+R1
+vEX
+R2
+Z9 !s110 1641285316
+!i10b 1
+!s100 5h;Q]LF8?]_ezza;NYWfc1
+I1PIb2=7b7VkhOC`4RV[Vl0
+R4
+Z10 !s105 EX_sv_unit
+S1
+R5
+w1641201993
+Z11 8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv
+Z12 FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv
+L0 1
+R6
+r1
+!s85 0
+31
+Z13 !s108 1641285316.000000
+Z14 !s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv|
+Z15 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv|
+!i113 0
+R8
+R1
+n@e@x
+vexecute
+R2
+!s110 1641201948
+!i10b 1
+!s100 d<A[6P`H:F:E@3QhL<obF1
+IPlUYG@lTVEG5J3]SCB7B13
+R4
+R10
+S1
+R5
+w1641201549
+R11
+R12
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1641201948.000000
+R14
+R15
+!i113 0
+R8
+R1
+vforwarding_unit
+R2
+R9
+!i10b 1
+!s100 bGD9TYjclDJ?dgan;m<gW1
+I?OMBPCN^cj[ZiI2dI]PlS2
+R4
+!s105 fowarding_unit_sv_unit
+S1
+R5
+w1641061963
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv|
+!i113 0
+R8
+R1
+vhazard_detection_unit
+R2
+R9
+!i10b 1
+!s100 ];;9>YfiX<1cIW_^gafD90
+IF<Gd;clD=1Z:iYca5AU2A1
+R4
+!s105 hazard_detection_unit_sv_unit
+S1
+R5
+w1641061962
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv|
+!i113 0
+R8
+R1
+vID
+R2
+R9
+!i10b 1
+!s100 N@VRBR008E^f8J9STDVV70
+IUCNX?Y=D<W0P9cCCi]zC00
+R4
+Z16 !s105 ID_sv_unit
+S1
+R5
+w1641229729
+Z17 8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv
+Z18 FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+Z19 !s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv|
+!i113 0
+R8
+R1
+n@i@d
+vIF
+R2
+R9
+!i10b 1
+!s100 DBYL9[5ho3TF1mVdHOM1O2
+ITaBlcZB]`7fLc1_AQbYAc1
+R4
+!s105 IF_sv_unit
+S1
+R5
+w1641234509
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/IF.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/IF.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/IF.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/IF.sv|
+!i113 0
+R8
+R1
+n@i@f
+vinstruction_decode
+R2
+Z21 !s110 1641201099
+!i10b 1
+!s100 U0fQC5jJBj<=EASB8EojI2
+IH;NkcD25P1K=H4^RUje:Q1
+R4
+R16
+S1
+R5
+w1641061257
+R17
+R18
+L0 1
+R6
+r1
+!s85 0
+31
+Z22 !s108 1641201099.000000
+R19
+R20
+!i113 0
+R8
+R1
+vMEM
+R2
+R9
+!i10b 1
+!s100 ;3=j=i2e0V::l9_6VSb>F3
+I>d1PP1]`[FSi9=[[0`94z3
+R4
+Z23 !s105 MEM_sv_unit
+S1
+R5
+w1641201547
+Z24 8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv
+Z25 FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+Z26 !s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv|
+Z27 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv|
+!i113 0
+R8
+R1
+n@m@e@m
+vmemory_access
+R2
+R21
+!i10b 1
+!s100 o:hW>Iba`5ASWL;<<I;=?1
+I_bU^4z=TWU=U@7I>0IGdg2
+R4
+R23
+S1
+R5
+w1641061362
+R24
+R25
+L0 1
+R6
+r1
+!s85 0
+31
+R22
+R26
+R27
+!i113 0
+R8
+R1
+vregister_write
+R2
+!s110 1641201100
+!i10b 1
+!s100 fRgH0<TLR>B;9zE^_f:D70
+I5L2NGeG8<UHI44fg89bo60
+R4
+Z28 !s105 WB_sv_unit
+S1
+R5
+w1641061965
+Z29 8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv
+Z30 FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R22
+Z31 !s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv|
+Z32 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv|
+!i113 0
+R8
+R1
+vriscv_pipeline_top
+R2
+R9
+!i10b 1
+!s100 b[BT;gHbJ2a@F=2EVO46N1
+I1;4ONj^<[XgJiH6U7Ujlg1
+R4
+!s105 riscv_pipeline_top_sv_unit
+S1
+R5
+w1641204411
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv|
+!i113 0
+R8
+R1
+vtb_riscv_pipeline_top
+R2
+!s110 1641285317
+!i10b 1
+!s100 ?DX5YhkFYj;7OkWE]A?ha0
+I@QB]5K76d1e^@SWi[KmU62
+R4
+!s105 tb_riscv_pipeline_top_sv_unit
+S1
+R5
+w1641220410
+8C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv
+FC:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv
+L0 2
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv|
+!i113 0
+R8
+R1
+vWB
+R2
+R9
+!i10b 1
+!s100 kJ_d1ZTSM]WBIYhXA2L3Q3
+IkQM1S54zYdSYI9L;Z957]1
+R4
+R28
+S1
+R5
+w1641201545
+R29
+R30
+L0 1
+R6
+r1
+!s85 0
+31
+R13
+R31
+R32
+!i113 0
+R8
+R1
+n@w@b

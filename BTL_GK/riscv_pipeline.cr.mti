@@ -1,0 +1,71 @@
+{C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/MEM.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/hazard_detection_unit.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module hazard_detection_unit
+
+Top level modules:
+	hazard_detection_unit
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/fowarding_unit.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/sim/tb/tb_riscv_pipeline_top.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module tb_riscv_pipeline_top
+
+Top level modules:
+	tb_riscv_pipeline_top
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/control.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/EX.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module EX
+
+Top level modules:
+	EX
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/WB.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module WB
+
+Top level modules:
+	WB
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/ID.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module ID
+
+Top level modules:
+	ID
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/riscv_pipeline_top.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module riscv_pipeline_top
+
+Top level modules:
+	riscv_pipeline_top
+
+} {} {}} {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/USER/OneDrive - Hanoi University of Science and Technology/Documents/learnning/dai_hoc/Nam 4/computer_architecture/computer_architecture/BTL_GK/hdl/alu_control.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}}

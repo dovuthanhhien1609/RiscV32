@@ -1,0 +1,107 @@
+# Current time Mon Jan 03 23:25:08 2022
+# Program = vish
+# Id = "10.7c"
+# Version = "2018.08"
+# Date = "Aug 18 2018"
+# Platform = win64
+
+Exception c0000005 has occurred at address 403389ff. Traceback:
+# 0    0x403389ff: 'Mtirpc_Init + 0x176eaf'
+# 1    0x401fa232: 'Mtirpc_Init + 0x386e2'
+# 2    0x4024cf8f: 'Mtirpc_Init + 0x8b43f'
+# 3    0x402106e7: 'Mtirpc_Init + 0x4eb97'
+# 4    0x4020562c: 'Mtirpc_Init + 0x43adc'
+# 5    0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 6    0xb1030bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 7    0xb1031dbb: 'Itcl_ExecMethod + 0x23b'
+# 8    0xb1039879: 'Itcl_EvalArgs + 0x1c9'
+# 9    0xb1034b51: 'Itcl_HandleInstance + 0x2c1'
+# 10   0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 11   0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 12   0x5f2392e2: 'TclpRealloc + 0xa02'
+# 13   0x5f23965c: 'TclServiceIdle + 0x9c'
+# 14   0x5f20d0c3: 'Tcl_DoOneEvent + 0x133'
+# 15   0x5f35aee5: 'Tk_MainLoop + 0x25'
+# 16   0x5f39d282: 'Tk_MainEx + 0x932'
+# 17   0x401e4590: 'Mtirpc_Init + 0x22a40'
+# 18   0x401e6c38: 'Mtirpc_Init + 0x250e8'
+# 19   0x40626dd7: 'Tclsqlite_Init + 0x5717'
+# 20   0xda197034: 'BaseThreadInitThunk + 0x14'
+# 21   0xda4c2651: 'RtlUserThreadStart + 0x21'
+StackWalk failed 0
+# End of Stack Trace
+
+# Current time Tue Jan 04 00:11:44 2022
+# Program = vish
+# Id = "10.7c"
+# Version = "2018.08"
+# Date = "Aug 18 2018"
+# Platform = win64
+
+Exception c0000005 has occurred at address 4024f10b. Traceback:
+# 0    0x4024f10b: 'Mtirpc_Init + 0x8d5bb'
+# 1    0x4024ef0e: 'Mtirpc_Init + 0x8d3be'
+# 2    0x4020adf4: 'Mtirpc_Init + 0x492a4'
+# 3    0x40204dc0: 'Mtirpc_Init + 0x43270'
+# 4    0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 5    0xd0140bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 6    0xd0141dbb: 'Itcl_ExecMethod + 0x23b'
+# 7    0xd0149879: 'Itcl_EvalArgs + 0x1c9'
+# 8    0xd0144b51: 'Itcl_HandleInstance + 0x2c1'
+# 9    0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 10   0xd0140bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 11   0xd0141dbb: 'Itcl_ExecMethod + 0x23b'
+# 12   0xd0149879: 'Itcl_EvalArgs + 0x1c9'
+# 13   0xd0144b51: 'Itcl_HandleInstance + 0x2c1'
+# 14   0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 15   0x5f16586c: 'TclCleanupCommand + 0x88c'
+# 16   0x5f168d4f: 'Tcl_EvalEx + 0x1f'
+# 17   0x5f31431a: 'Tk_BindEvent + 0x91a'
+# 18   0x5f34bd41: 'TkBindEventProc + 0x291'
+# 19   0x5f35c614: 'Tk_HandleEvent + 0x2f4'
+# 20   0x5f35b2da: 'TkDeleteThreadExitHandler + 0x31a'
+# 21   0x5f20d41c: 'Tcl_ServiceEvent + 0x9c'
+# 22   0x5f20d0b4: 'Tcl_DoOneEvent + 0x124'
+# 23   0x5f35aee5: 'Tk_MainLoop + 0x25'
+# 24   0x5f39d282: 'Tk_MainEx + 0x932'
+# 25   0x401e4590: 'Mtirpc_Init + 0x22a40'
+# 26   0x401e6c38: 'Mtirpc_Init + 0x250e8'
+# 27   0x40626dd7: 'Tclsqlite_Init + 0x5717'
+# 28   0xda197034: 'BaseThreadInitThunk + 0x14'
+# 29   0xda4c2651: 'RtlUserThreadStart + 0x21'
+StackWalk failed 0
+# End of Stack Trace
+
+# Current time Tue Jan 04 00:37:43 2022
+# Program = vish
+# Id = "10.7c"
+# Version = "2018.08"
+# Date = "Aug 18 2018"
+# Platform = win64
+
+Exception c0000005 has occurred at address 403389ff. Traceback:
+# 0    0x403389ff: 'Mtirpc_Init + 0x176eaf'
+# 1    0x401fa232: 'Mtirpc_Init + 0x386e2'
+# 2    0x4024cf8f: 'Mtirpc_Init + 0x8b43f'
+# 3    0x402106e7: 'Mtirpc_Init + 0x4eb97'
+# 4    0x4020562c: 'Mtirpc_Init + 0x43adc'
+# 5    0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 6    0xd3250bfa: 'Itcl_EvalMemberCode + 0x3ba'
+# 7    0xd3251dbb: 'Itcl_ExecMethod + 0x23b'
+# 8    0xd3259879: 'Itcl_EvalArgs + 0x1c9'
+# 9    0xd3254b51: 'Itcl_HandleInstance + 0x2c1'
+# 10   0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 11   0x5f166c03: 'TclNRRunCallbacks + 0x63'
+# 12   0x5f2392e2: 'TclpRealloc + 0xa02'
+# 13   0x5f23965c: 'TclServiceIdle + 0x9c'
+# 14   0x5f20d0c3: 'Tcl_DoOneEvent + 0x133'
+# 15   0x5f35aee5: 'Tk_MainLoop + 0x25'
+# 16   0x5f39d282: 'Tk_MainEx + 0x932'
+# 17   0x401e4590: 'Mtirpc_Init + 0x22a40'
+# 18   0x401e6c38: 'Mtirpc_Init + 0x250e8'
+# 19   0x40626dd7: 'Tclsqlite_Init + 0x5717'
+# 20   0xda197034: 'BaseThreadInitThunk + 0x14'
+# 21   0xda4c2651: 'RtlUserThreadStart + 0x21'
+StackWalk failed 0
+# End of Stack Trace
+
